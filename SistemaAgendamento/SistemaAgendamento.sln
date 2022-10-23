@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaAgendamento", "SistemaAgendamento\SistemaAgendamento.csproj", "{5C5A1960-635E-42C2-8F40-2304808995AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C5A1960-635E-42C2-8F40-2304808995AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5A1960-635E-42C2-8F40-2304808995AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5A1960-635E-42C2-8F40-2304808995AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5A1960-635E-42C2-8F40-2304808995AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
